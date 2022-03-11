@@ -3,4 +3,4 @@ a Tinder-like News Android App
 
 :)
 
-Kevin
+Kevin Liu
